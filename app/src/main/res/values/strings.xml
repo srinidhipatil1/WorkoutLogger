@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Workout Logger</string>
+    <string name="welcome">Welcome to Workout Logger!</string>
+</resources>
